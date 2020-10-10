@@ -1,0 +1,24 @@
+{
+  "name": "Hello World",
+  "short_name": "Hello",
+  "icons": [{
+    "src": "icon/logo64.png",
+    "type": "image/png",
+    "sizes": "64x64"
+  },
+  {
+    "src": "icon/logo512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  },
+  {
+    "src": "icon/logo192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
